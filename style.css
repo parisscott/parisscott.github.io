@@ -242,7 +242,7 @@ div {
 }
 
 .blackcontainerphoto {
-    background-color: yellow;
+    background-color: black;
     width: 345px;
     height: 430px;
     margin-top: 20px;
@@ -321,7 +321,7 @@ div {
 }
 
 .signup {
-    background-color: yellow;
+    background-color: black;
     float: left;
     height: 200px;
     width: 200px;
