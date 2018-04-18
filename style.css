@@ -255,7 +255,7 @@ div {
     width: 1160px;
     float: left;
     margin-top: 30px;
-    margin-left: 20px;
+    margin-left: 0px;
     text-align: left;
 }
 
@@ -373,4 +373,14 @@ div {
     margin-top: 20px;
     margin-right: 20px;
     background-color: #e2c0b4        
+}
+
+.contact2 {
+    background-color: black;
+    height: 50px;
+    width: 1160px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: left;
 }
