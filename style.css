@@ -336,7 +336,7 @@ div {
     background-color: black;
     height: 19px;
     width: 130px;
-    margin-top: 30px;
+    margin-top: 70px;
     margin-left: 20px;
     text-align: left;
     float: left;
@@ -346,7 +346,7 @@ div {
     background-color: black;
     height: 19px;
     width: 130px;
-    margin-top: 30px;
+    margin-top: 70px;
     margin-left: 30px;
     text-align: left;
     float: left;
@@ -362,17 +362,17 @@ div {
     height: 19px;
     width: 70px;
     float: left;
-    margin-top: 86px;
+    margin-top: 126px;
     margin-left: 30px;
 }
 
-.signupphoto {
-    height: 85px;
-    width: 700px;
-    float: right;
+.signup {
+    background-color: black;
+    height: 260px;
+    width: 1160px;
+    float: left;
     margin-top: 20px;
-    margin-right: 20px;
-    background-color: #e2c0b4        
+    margin-left: 20px;
 }
 
 .contact2 {
