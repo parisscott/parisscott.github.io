@@ -1,0 +1,396 @@
+body {
+   font-family: 'Josefin Sans', sans-serif;
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    color: #e2c0b4;
+}
+
+h3 {
+    color: grey;
+}
+
+p {
+    color: grey;
+}
+
+
+div {
+    outline: 0px solid red;
+}
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+}
+.chaos {
+    background-color:black;
+    margin-top: 30px;
+    text-align: center
+}
+
+.header1 {
+    background-color: black;
+    height: 80px;
+    width: 1200px;
+    float: left;
+}
+
+.leftmenu {
+    background-color: black;
+    height: 50px;
+    width: 400px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.links {
+    margin-top: 10px;
+    font-size: 1rem;
+    float: left;
+    color: white;
+}
+
+.links a{
+    text-decoration: none;
+    color: white; 
+}
+
+.links a:hover{
+    color: #5e83a5;
+}
+.links a:active{
+    color: #27374c;
+}
+
+.links a:visited{
+    color: grey;
+}
+
+.links1 {
+    margin-top: 10px;
+    margin-right: 0px;
+    font-size: 1rem;
+    float: right;
+    color: white;
+}
+
+.links1 a{
+    text-decoration: none;
+    color: white; 
+}
+
+.links1 a:hover{
+    color: #5e83a5;
+}
+
+.links1 a:active{
+    color: #27374c;
+}
+
+.links1 a:visited{
+    color: grey;
+}
+
+.rightmenu {
+    background-color: black;
+    height: 50px;
+    width: 400px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.catchphraseline {
+    background-color: grey;
+    width: 1160px;
+    height: 2px;
+}
+
+.catchphrase {
+    background-color: black;
+    width: 1160px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.shopdesign {
+    background-color: black;
+    height: 600px;
+    width: 1160px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.header2 {
+    background-color: black;
+    height: 90px;
+    width: 1200px;
+    float: left;   
+}
+
+.content1line {
+    background-color: grey;
+    width: 1180px;
+    width: 2px;
+}
+
+.header3 {
+    background-color: black;
+    height: 90px;
+    width: 1200px;
+    float: left;
+}
+
+.photos1 {
+    background-color: black;
+    height: 380px;
+    width: 275px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.description1 {
+    background-color: black;
+    height: 50px;
+    width: 275px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.photos2 {
+    background-color: black;
+    height: 380px;
+    width: 275px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.description2 {
+    background-color: black;
+    height: 50px;
+    width: 275px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.lookbook {
+    background-color: black;
+    width: 1160px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.blackcontainer {
+    background-color: black;
+    width: 1160px;
+    height: 560px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;    
+}
+
+.blackcontainerleft {
+    background-color: green;
+    width: 50%;
+}
+
+.textcontainer1 {
+    background-color: black;
+    width: 550px;
+    height: 90px;
+    float: left;
+    margin-top: 0px;
+    text-align: left 
+}
+
+.textcontainer2 {
+    background-color: black;
+    width: 550px;
+    height: 220px;
+    float: left;
+    margin-top: 50px;
+    text-align: left 
+}
+
+.textcontainer3 {
+    background-color: black;
+    width: 550px;
+    height: 90px;
+    float: left;
+    margin-top: 0px;
+    text-align: left 
+}
+
+.blackcontainerright {
+    background-color: black;
+    width: 50%;
+}
+
+.blackcontainerphoto {
+    background-color: black;
+    width: 345px;
+    height: 430px;
+    margin-top: 20px;
+    margin-left: 810px;
+    margin-right: 0px;
+}
+
+.contact {
+    background-color: black;
+    height: 50px;
+    width: 1160px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 0px;
+    text-align: left;
+}
+
+.contactcontainer {
+    background-color: black;
+    width: 1180px;
+    height: 300px;
+    float: left;
+    margin-top: 30px;
+}
+
+.icons {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.iconinformation {
+    background-color: black;
+    height: 50px;
+    width: 1060px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.cataloguecontainer {
+    background-color: black;
+    float: left;
+}
+
+.catalogueportrait {
+    background-color: black;
+    height: 385px;
+    width: 284px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.cataloguelandscape {
+    background-color: black;
+    height: 385px;
+    width: 549px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 20px
+}
+
+.cataloguetext {
+    background-color: black;
+    height: 60px;
+    width: 1160px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.signup {
+    background-color: black;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+
+.content1 {
+    background-color: black;
+    width: 1200px;
+    float: left;
+}
+
+.signuptext {
+    background-color: black;
+    height: 19px;
+    width: 130px;
+    margin-top: 70px;
+    text-align: left;
+    float: left;
+}
+
+.signuptext1 {
+    background-color: black;
+    height: 19px;
+    width: 130px;
+    margin-top: 70px;
+    margin-left: 20px;
+    text-align: left;
+    float: left;
+}
+
+.button {
+    background-color: #e2c0b4;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+    height: 19px;
+    width: 70px;
+    float: left;
+    margin-top: 126px;
+    margin-left: 20px;
+}
+
+.signup {
+    background-color: black;
+    height: 260px;
+    width: 1160px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.contact2 {
+    background-color: black;
+    height: 50px;
+    width: 1160px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.icons2 {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin-top: 95px;
+    margin-left: 20px;
+   
+}
