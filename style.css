@@ -214,7 +214,7 @@ div {
     width: 550px;
     height: 90px;
     float: left;
-    margin-top: 30px;
+    margin-top: 0px;
     text-align: left 
 }
 
@@ -223,7 +223,7 @@ div {
     width: 550px;
     height: 220px;
     float: left;
-    margin-top: 80px;
+    margin-top: 50px;
     text-align: left 
 }
 
@@ -232,7 +232,7 @@ div {
     width: 550px;
     height: 90px;
     float: left;
-    margin-top: 20px;
+    margin-top: 0px;
     text-align: left 
 }
 
@@ -242,10 +242,10 @@ div {
 }
 
 .blackcontainerphoto {
-    background-color: black;
-    width: 350px;
-    height: 480px;
-    margin-top: 50px;
+    background-color: yellow;
+    width: 345px;
+    height: 430px;
+    margin-top: 20px;
     margin-left: 810px;
     margin-right: 0px;
 }
